@@ -1,0 +1,26 @@
+<svg viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <g id="Target 3 1" clip-path="url(#clip0_1248_29825)">
+        <g id="target-3--shop-bullseye-shooting-target">
+            <path id="Vector 1585" d="M8 0.830811V2.86624" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector 1587" d="M15.1682 8H13.1328" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector 1586" d="M8 15.1691V13.1313" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector 1588" d="M0.832031 8H2.8686" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector 1589" d="M6.16797 8H9.83425" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector 1590" d="M8 6.16699V9.83213" stroke="#1E93FF" stroke-linecap="round"
+                stroke-linejoin="round" />
+            <path id="Vector"
+                d="M2.45356 12.9258C5.00214 15.9178 10.9976 15.9178 13.5461 12.9258C15.8924 10.1692 15.7141 4.77489 12.8901 2.41604C10.3599 0.301751 5.63985 0.301751 3.10956 2.41604C0.285564 4.77489 0.107278 10.1692 2.45356 12.9258Z"
+                stroke="#1E93FF" stroke-linecap="round" stroke-linejoin="round" />
+        </g>
+    </g>
+    <defs>
+        <clipPath id="clip0_1248_29825">
+            <rect width="16" height="16" fill="white" />
+        </clipPath>
+    </defs>
+</svg>
